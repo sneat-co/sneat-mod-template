@@ -1,3 +1,3 @@
-module github.com/sneat-co/sneat-module-template
+module github.com/sneat-co/sneat-mod-template
 
-go 1.21.0
+go 1.20.0
