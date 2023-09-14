@@ -1,4 +1,4 @@
-module github.com/sneat-co/sneat-mod-template
+module github.com/sneat-co/sneat-mod-module
 
 go 1.20.0
 
