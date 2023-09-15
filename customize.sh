@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 current_dir=$(basename "$(pwd)")
-MODULE_ID="${current_dir#sneat-module-}"
+MODULE_ID="${current_dir#sneat-mod-}"
 echo "Module id: $MODULE_ID"
 
 # ======== BEGIN: Customization of Go related files & directories ========
