@@ -25,6 +25,10 @@ mv go/module go/"$MODULE_ID"
 # ======== END: Customization of Go related files & directories ========
 
 # ======== BEGIN: Clean-up ========
+
+# Replace README.md with README-MODULE.md
+mv README-MODULE.md README.md
+
 # Remove customization script
 rm customize.sh
 # ======== END: Clean-up ========
