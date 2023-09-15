@@ -12,6 +12,10 @@ sed -i '' "s/sneat-mod-module/sneat-mod-$MODULE_ID/g" go.mod
 # Renames module sub-directories using actual module id taken from $MODULE_ID environment variable
 for dir in go/module/*module; do mv "$dir" "${dir%module}$MODULE_ID"; done
 
+# Replace 4module with actual module id taken from $MODULE_ID environment variable
+find "go/module" -type f -exec sed -i '' "s/4module/$MODULE_ID/g" {} +
+
+
 # Changes package name "module" to actual module id taken from $MODULE_ID environment variable
 find "go/module" -type f -name "*.go" -exec sed -i '' "s/package module/package $MODULE_ID/g" {} +
 
@@ -31,4 +35,6 @@ mv README-MODULE.md README.md
 
 # Remove customization script
 rm customize.sh
+
+git add .
 # ======== END: Clean-up ========
