@@ -13,7 +13,7 @@ sed -i '' "s/sneat-mod-module/sneat-mod-$MODULE_ID/g" go.mod
 for dir in go/module/*module; do mv "$dir" "${dir%module}$MODULE_ID"; done
 
 # Replace 4module with actual module id taken from $MODULE_ID environment variable
-find "go/module" -type f -exec sed -i '' "s/4module/$MODULE_ID/g" {} +
+find "go/module" -type f -exec sed -i '' "s/4module/4$MODULE_ID/g" {} +
 
 
 # Changes package name "module" to actual module id taken from $MODULE_ID environment variable
