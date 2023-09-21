@@ -3,14 +3,14 @@ module github.com/sneat-co/sneat-mod-module
 go 1.20.0
 
 require (
-	github.com/sneat-co/sneat-go-core v0.3.0
+	github.com/sneat-co/sneat-go-core v0.9.2
 	github.com/stretchr/testify v1.8.4
 )
 
 require (
 	github.com/alexsergivan/transliterator v1.0.0 // indirect
-	github.com/crediterra/money v0.2.0 // indirect
-	github.com/dal-go/dalgo v0.10.2 // indirect
+	github.com/crediterra/money v0.2.1 // indirect
+	github.com/dal-go/dalgo v0.12.0 // indirect
 	github.com/dal-go/dalgo2buntdb v0.7.15 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/golang/mock v1.6.0 // indirect
