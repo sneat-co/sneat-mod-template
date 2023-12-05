@@ -1,6 +1,6 @@
 module github.com/sneat-co/sneat-mod-module
 
-go 1.21.4
+go 1.21.5
 
 require (
 	github.com/sneat-co/sneat-go-core v0.19.1
