@@ -4,7 +4,7 @@ go 1.22.0
 
 require (
 	github.com/sneat-co/sneat-go-core v0.23.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 )
 
 require (
