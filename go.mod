@@ -3,7 +3,7 @@ module github.com/sneat-co/sneat-mod-module
 go 1.22.0
 
 require (
-	github.com/sneat-co/sneat-go-core v0.23.2
+	github.com/sneat-co/sneat-go-core v0.23.3
 	github.com/stretchr/testify v1.9.0
 )
 
