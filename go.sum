@@ -3,6 +3,7 @@ github.com/alexsergivan/transliterator v1.0.0/go.mod h1:0IrumukulURJ4PD0z6UcdJKP
 github.com/crediterra/money v0.2.0 h1:0DsJhRKSEP9CIc3LUnMPPcRY8JJpj8E7CWRWPdfe9cg=
 github.com/crediterra/money v0.2.0/go.mod h1:X9dmXT1lI2mLyV/7V7vrMGkFy9jWJY3JmDUYKydQKkY=
 github.com/crediterra/money v0.2.1/go.mod h1:0BT7dzPk4Wv+Wi8J6sxlFbCknYioLWVVQM4ciMJh6TI=
+github.com/crediterra/money v0.2.2/go.mod h1:0BT7dzPk4Wv+Wi8J6sxlFbCknYioLWVVQM4ciMJh6TI=
 github.com/dal-go/dalgo v0.10.2 h1:kBVNpH3wRK4uP9eBwMYsL5U5QjvPX8jYcZAgJgaG2tE=
 github.com/dal-go/dalgo v0.10.2/go.mod h1:741DXTLpQfmvkazyEiivX8OBFylpzS1QErdh/6WquqI=
 github.com/dal-go/dalgo v0.12.0 h1:giibzqo6mIkU06b0r4uKb3ZEa2agtj1qnL8RNa6sOBM=
@@ -54,6 +55,8 @@ github.com/sneat-co/sneat-go-core v0.23.4 h1:+S3GA850WbFDdPmz5FoIwP8R1//ZRLVaaOj
 github.com/sneat-co/sneat-go-core v0.23.4/go.mod h1:c8EESQ9CrsKaMtJ7D4daH7CeocL5kLHHxzrG9fPiCmg=
 github.com/sneat-co/sneat-go-core v0.23.5 h1:kZLFjm7jTNUhbdwaqy9lTQjP+20GtaN2IHjCA3o+MvA=
 github.com/sneat-co/sneat-go-core v0.23.5/go.mod h1:fmlaWKLDn4EMh44sU1C+PW32n4GQj32WILyolyV3PII=
+github.com/sneat-co/sneat-go-core v0.23.6 h1:tcMRxoMTxGhf7re0Z417+O4qA3I2Kk2EkpU4IQAK9XY=
+github.com/sneat-co/sneat-go-core v0.23.6/go.mod h1:0MJlBmIUYoisERyYxpk44znVSX3Eh4Cu4FDCBSSs5LE=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.5.1/go.mod h1:5W2xD1RspED5o8YsWQXVCued0rvSQ+mT+I5cxcmMvtA=
 github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=
