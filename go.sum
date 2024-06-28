@@ -62,6 +62,8 @@ github.com/sneat-co/sneat-go-core v0.24.0 h1:J/talvQiNxa4CI2GwBiV1E1AIlMf/2qhTTF
 github.com/sneat-co/sneat-go-core v0.24.0/go.mod h1:0MJlBmIUYoisERyYxpk44znVSX3Eh4Cu4FDCBSSs5LE=
 github.com/sneat-co/sneat-go-core v0.24.1 h1:iZKFYsIcHysXt6tQ4GmaFY4VemfYRWeFH4v8dPY42X8=
 github.com/sneat-co/sneat-go-core v0.24.1/go.mod h1:MbnuZtB3ob5jcqnoNMUb7OlgaEFFHE6CoHoczrnCuJ0=
+github.com/sneat-co/sneat-go-core v0.24.2 h1:JZJl4FEA0HLBpwCLonX7jlQeO6cZ4v8xWR8zHKaniQM=
+github.com/sneat-co/sneat-go-core v0.24.2/go.mod h1:/it3REdjVMc2BnlMzUf6zL8pu4hPDjv1A4+1iYBQkJU=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.5.1/go.mod h1:5W2xD1RspED5o8YsWQXVCued0rvSQ+mT+I5cxcmMvtA=
 github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=
