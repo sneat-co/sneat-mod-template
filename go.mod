@@ -1,9 +1,11 @@
 module github.com/sneat-co/sneat-mod-module
 
-go 1.22.2
+go 1.22.3
+
+toolchain go1.22.4
 
 require (
-	github.com/sneat-co/sneat-go-core v0.24.2
+	github.com/sneat-co/sneat-go-core v0.24.3
 	github.com/stretchr/testify v1.9.0
 )
 
