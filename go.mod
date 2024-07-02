@@ -2,7 +2,7 @@ module github.com/sneat-co/sneat-mod-module
 
 go 1.22.3
 
-toolchain go1.22.4
+toolchain go1.22.5
 
 require (
 	github.com/sneat-co/sneat-go-core v0.24.3
