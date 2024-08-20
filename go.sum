@@ -1,5 +1,7 @@
 github.com/dal-go/dalgo v0.12.1 h1:3W95xOSC7CLgH3OQppNOWoIaMkon8GlQmgYxxO5qnvs=
 github.com/dal-go/dalgo v0.12.1/go.mod h1:gzBMQn5sfUcHcx+7FNpO+FQz7guT/AAYgzXM4300rAY=
+github.com/dal-go/dalgo v0.12.2 h1:OmiC6TRuBbV8zDHScdkUMlwViB6ORgLm6Tfd9bHDBAo=
+github.com/dal-go/dalgo v0.12.2/go.mod h1:lY3vCOnl9bI8c82reF+kQNpKvSklgoFImGGmNgkFHls=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/golang/mock v1.6.0 h1:ErTB+efbowRARo13NNdxyJji2egdxLGQhRaY+DUumQc=
@@ -8,8 +10,12 @@ github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZb
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/sneat-co/sneat-go-core v0.28.0 h1:h8hsu49BDQyDMUKFqtFFfsUtow72fHzbanowTDdkljc=
 github.com/sneat-co/sneat-go-core v0.28.0/go.mod h1:Izao/O4cYriHmWl0kG4i+ZcMud+YJ9qPbMYljeBNWPM=
+github.com/sneat-co/sneat-go-core v0.31.5 h1:PYaxtHBq5EH4rN0aLvyRPTo/R/tXAw4laM58eJGWdjM=
+github.com/sneat-co/sneat-go-core v0.31.5/go.mod h1:xm5VjTfIJ7jqzlclcn1Boaz3tcxRaVfiMpnhky1fReE=
 github.com/stretchr/testify v1.9.0 h1:HtqpIVDClZ4nwg75+f6Lvsy/wHu+3BoSGCbBAcpTsTg=
 github.com/stretchr/testify v1.9.0/go.mod h1:r2ic/lqez/lEtzL7wO/rwa5dbSLXVDPFyf8C91i36aY=
+github.com/strongo/delaying v0.0.1 h1:avN7p5oKcowaDeEbGJLB4QHgttK6y9OtGwFN0UkEDi8=
+github.com/strongo/delaying v0.0.1/go.mod h1:nQ3n4876SKTIR0FUrig6huZgI/mWHAOeGMVHkGs76tk=
 github.com/strongo/random v0.0.1 h1:OZHJBb/3uEa7OX8L2Dv2pLnSeewRmXMyTACoeto6O8I=
 github.com/strongo/random v0.0.1/go.mod h1:/pSI+SjBNLBkjljNtVdYr6ERddA+LqSa87o0/s+9iuU=
 github.com/strongo/validation v0.0.6 h1:RskXD45ILagVW3jmuKUiq7WshE4kmoQEiUbgfigqHzw=
