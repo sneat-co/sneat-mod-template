@@ -34,6 +34,8 @@ github.com/sneat-co/sneat-go-core v0.33.2 h1:31u6oKWq0K323jYsceVfYkrDGveBCgIRWz8
 github.com/sneat-co/sneat-go-core v0.33.2/go.mod h1:Ayvef49xcXqO4cLrWbCeq81YuidBW45X5rQQU6Z4w3w=
 github.com/sneat-co/sneat-go-core v0.34.1 h1:OA+Pt+jeRODC0vw9S9NVn5w5ZoNp0KQzZnQ6fMR9vgc=
 github.com/sneat-co/sneat-go-core v0.34.1/go.mod h1:tRztZ7VfQZHNHTskHvsWHmYNnc4O16Y0hAa8tKQ2pp8=
+github.com/sneat-co/sneat-go-core v0.34.2 h1:l9aPQ734s+W1GANL/umUZSc9/sqdM6dDKiJilM/pruc=
+github.com/sneat-co/sneat-go-core v0.34.2/go.mod h1:8LvIcKKvfKqSnz3gVNW+YH4W6ycJ/H/7Nc+2vmgbwo4=
 github.com/stretchr/testify v1.9.0 h1:HtqpIVDClZ4nwg75+f6Lvsy/wHu+3BoSGCbBAcpTsTg=
 github.com/stretchr/testify v1.9.0/go.mod h1:r2ic/lqez/lEtzL7wO/rwa5dbSLXVDPFyf8C91i36aY=
 github.com/strongo/delaying v0.0.1 h1:avN7p5oKcowaDeEbGJLB4QHgttK6y9OtGwFN0UkEDi8=
