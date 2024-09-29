@@ -6,6 +6,8 @@ github.com/dal-go/dalgo v0.13.1 h1:vRV4dGpBKaRYteJRIbDTh+7lqS/7Gs8ns3ij3jEy/Ug=
 github.com/dal-go/dalgo v0.13.1/go.mod h1:tErF10bqQiNrwJQ5qwL3kwoaUa6dDq4z3X3pdChr3Ms=
 github.com/dal-go/dalgo v0.13.2 h1:q1NKsfn9vX90ugMyFp+yNVUyS4ykD/sjXpXibyx1Fb8=
 github.com/dal-go/dalgo v0.13.2/go.mod h1:tErF10bqQiNrwJQ5qwL3kwoaUa6dDq4z3X3pdChr3Ms=
+github.com/dal-go/dalgo v0.14.0 h1:XhEmNfbCtV5ISxzFBE/Bk7W8OpWePYRmlvlJ/8Jk+dQ=
+github.com/dal-go/dalgo v0.14.0/go.mod h1:tErF10bqQiNrwJQ5qwL3kwoaUa6dDq4z3X3pdChr3Ms=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/golang/mock v1.6.0 h1:ErTB+efbowRARo13NNdxyJji2egdxLGQhRaY+DUumQc=
@@ -36,6 +38,8 @@ github.com/sneat-co/sneat-go-core v0.34.1 h1:OA+Pt+jeRODC0vw9S9NVn5w5ZoNp0KQzZnQ
 github.com/sneat-co/sneat-go-core v0.34.1/go.mod h1:tRztZ7VfQZHNHTskHvsWHmYNnc4O16Y0hAa8tKQ2pp8=
 github.com/sneat-co/sneat-go-core v0.34.2 h1:l9aPQ734s+W1GANL/umUZSc9/sqdM6dDKiJilM/pruc=
 github.com/sneat-co/sneat-go-core v0.34.2/go.mod h1:8LvIcKKvfKqSnz3gVNW+YH4W6ycJ/H/7Nc+2vmgbwo4=
+github.com/sneat-co/sneat-go-core v0.37.1 h1:2jtBpP1x4/Q3KjPobbACmiXbjykYs+zGakd06sdjU3U=
+github.com/sneat-co/sneat-go-core v0.37.1/go.mod h1:bc53byrXRGzIEueAVVEmwhNMiS4uwBe/Uh4pESB1ABI=
 github.com/stretchr/testify v1.9.0 h1:HtqpIVDClZ4nwg75+f6Lvsy/wHu+3BoSGCbBAcpTsTg=
 github.com/stretchr/testify v1.9.0/go.mod h1:r2ic/lqez/lEtzL7wO/rwa5dbSLXVDPFyf8C91i36aY=
 github.com/strongo/delaying v0.0.1 h1:avN7p5oKcowaDeEbGJLB4QHgttK6y9OtGwFN0UkEDi8=
