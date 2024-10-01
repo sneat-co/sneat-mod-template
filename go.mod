@@ -1,6 +1,6 @@
 module github.com/sneat-co/sneat-mod-module
 
-go 1.23.0
+go 1.22.3
 
 require (
 	github.com/sneat-co/sneat-go-core v0.37.1
@@ -10,7 +10,6 @@ require (
 require (
 	github.com/dal-go/dalgo v0.14.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/golang/mock v1.6.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/strongo/delaying v0.0.1 // indirect
 	github.com/strongo/random v0.0.1 // indirect
