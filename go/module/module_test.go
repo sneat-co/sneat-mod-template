@@ -1,11 +1,15 @@
 package module
 
 import (
-	"github.com/sneat-co/sneat-go-core/tests"
+	"github.com/sneat-co/sneat-go-core/module"
 	"testing"
 )
 
 func TestModule(t *testing.T) {
 	m := Module()
-	tests.VerifyModule(t, m, false)
+	module.AssertModule(t, m, module.Expected{
+		ModuleID:      "{MODULE_ID}",
+		HandlersCount: 1,
+		DelayersCount: 0,
+	})
 }
