@@ -3,12 +3,12 @@ module github.com/sneat-co/sneat-mod-module
 go 1.22.3
 
 require (
-	github.com/sneat-co/sneat-go-core v0.41.0
+	github.com/sneat-co/sneat-go-core v0.41.1
 	github.com/stretchr/testify v1.10.0
 )
 
 require (
-	github.com/dal-go/dalgo v0.14.1 // indirect
+	github.com/dal-go/dalgo v0.14.2 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/strongo/delaying v0.1.0 // indirect
