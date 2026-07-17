@@ -1,7 +1,7 @@
 package api4module
 
 import (
-	"github.com/sneat-co/sneat-go-core/module"
+	"github.com/sneat-co/sneat-go-core/extension"
 	"net/http"
 	"net/http/httptest"
 	"testing"
@@ -11,7 +11,7 @@ func TestRegisterHttpRoutes(t *testing.T) {
 	var gotMethod, gotPath string
 	var gotHandler http.HandlerFunc
 
-	var handle module.HTTPHandleFunc = func(method, path string, handler http.HandlerFunc) {
+	var handle extension.HTTPHandleFunc = func(method, path string, handler http.HandlerFunc) {
 		gotMethod, gotPath, gotHandler = method, path, handler
 	}
 
