@@ -1,9 +1,10 @@
 package module
 
 import (
+	"testing"
+
 	"github.com/sneat-co/sneat-go-core/coretypes"
 	"github.com/sneat-co/sneat-go-core/extension"
-	"testing"
 )
 
 func TestModule(t *testing.T) {

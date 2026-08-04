@@ -1,8 +1,9 @@
 package const4module
 
 import (
-	"github.com/stretchr/testify/assert"
 	"testing"
+
+	"github.com/stretchr/testify/assert"
 )
 
 func TestModuleID(t *testing.T) {
