@@ -4,15 +4,13 @@ import (
 	"net/http"
 	"net/http/httptest"
 	"testing"
-
-	"github.com/sneat-co/sneat-go-core/extension"
 )
 
 func TestRegisterHttpRoutes(t *testing.T) {
 	var gotMethod, gotPath string
 	var gotHandler http.HandlerFunc
 
-	var handle extension.HTTPHandleFunc = func(method, path string, handler http.HandlerFunc) {
+	handle := func(method, path string, handler http.HandlerFunc) {
 		gotMethod, gotPath, gotHandler = method, path, handler
 	}
 
