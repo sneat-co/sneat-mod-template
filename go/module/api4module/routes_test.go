@@ -11,9 +11,9 @@ func TestRegisterHttpRoutes(t *testing.T) {
 	var gotMethod, gotPath string
 	var gotHandler http.HandlerFunc
 
-	var handle extension.HTTPHandleFunc = func(method, path string, handler http.HandlerFunc) {
+	handle := extension.HTTPHandleFunc(func(method, path string, handler http.HandlerFunc) {
 		gotMethod, gotPath, gotHandler = method, path, handler
-	}
+	})
 
 	RegisterHttpRoutes(handle)
 
