@@ -15,6 +15,10 @@ for dir in go/module/*module; do mv "$dir" "${dir%module}$MODULE_ID"; done
 # Replace 4module with actual module id taken from $MODULE_ID environment variable
 find "go/module" -type f -exec sed -i '' "s/4module/4$MODULE_ID/g" {} +
 
+# Fixes internal cross-package import paths so they point at the renamed Go
+# module and go/<MODULE_ID> directory, using actual module id taken from
+# $MODULE_ID environment variable
+find "go/module" -type f -name "*.go" -exec sed -i '' "s#github.com/sneat-co/sneat-mod-module/go/module/#github.com/sneat-co/sneat-mod-$MODULE_ID/go/$MODULE_ID/#g" {} +
 
 # Changes package name "module" to actual module id taken from $MODULE_ID environment variable
 find "go/module" -type f -name "*.go" -exec sed -i '' "s/package module/package $MODULE_ID/g" {} +
