@@ -20,3 +20,4 @@ jobs:
       gh_token: ${{ secrets.GITHUB_TOKEN }}
     with:
       disable-version-bumping: true
+      min_test_coverage_percent: 100
