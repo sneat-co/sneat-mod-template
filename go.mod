@@ -2,7 +2,7 @@ module github.com/sneat-co/sneat-mod-module
 
 go 1.26.0
 
-toolchain go1.27.0
+toolchain go1.27.4
 
 require (
 	github.com/dal-go/dalgo v0.74.1
